@@ -9,7 +9,7 @@ I also learned how to make a pull request, comment on someone else's pull reques
 
                            I practiced a typical best practice developer workflow which consists of: 
 
-    1. fork
+<br>1. fork
 <br>2. branch
 <br>3. stage
 <br>4. commit
@@ -19,7 +19,7 @@ Lastly, I learned how to collectively use git and github together by configuring
 
                                    Here are some of the command lines I was introduced to:
 
-    1. git config --global user.name "enter your username here"
+<br>1. git config --global user.name "enter your username here"
 <br>2. git config --global user.email "enter your email address here"
 <br>3. git clone - to copy a repository to your computer
 <br>4. git branch "name-of-branch" - create a branch
