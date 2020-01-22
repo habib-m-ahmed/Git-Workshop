@@ -5,7 +5,7 @@ The basics of Git and Github
 <br>The GitHub Workflow
 <br>Command-line Git usage
 
-I also learned how to make a pull request, comment on someone else's pull request, and compare pull requests, . 
+I also learned how to make a pull request, comment on someone else's pull request, and compare pull requests. 
 
                            I practiced a typical best practice developer workflow which consists of: 
 
