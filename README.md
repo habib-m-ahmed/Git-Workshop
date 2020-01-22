@@ -1,5 +1,5 @@
 # Git-Workshop
-                                This project was created in order to assist with the learning of the following:
+                        This project was created in order to assist with the learning of the following:
 
 The basics of Git and Github
 <br>The GitHub Workflow
@@ -7,9 +7,9 @@ The basics of Git and Github
 
 I also learned how to make a pull request, comment on someone else's pull request, and compare & pull requests, . 
 
-                                   I practiced a typical best practice developer workflow which consists of: 
+                           I practiced a typical best practice developer workflow which consists of: 
 
-1. fork
+    1. fork
 <br>2. branch
 <br>3. stage
 <br>4. commit
@@ -17,9 +17,9 @@ I also learned how to make a pull request, comment on someone else's pull reques
 
 Lastly, I learned how to collectively use git and github together by configuring my local environment so that the correct Github account is assosciated with my commits! 
 
-                                           Here are some of the command lines I was introduced to:
+                                   Here are some of the command lines I was introduced to:
 
-1. git config --global user.name "enter your username here"
+    1. git config --global user.name "enter your username here"
 <br>2. git config --global user.email "enter your email address here"
 <br>3. git clone - to copy a repository to your computer
 <br>4. git branch "name-of-branch" - create a branch
